@@ -4481,11 +4481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ljdb1\\LJ_Stuff\\dotnet_files\\Stock\\stockBackend\\api.csproj",
+      "projectUniqueName": "C:\\Users\\ljdb1\\LJ_Stuff\\dotnet_files\\Stock\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\ljdb1\\LJ_Stuff\\dotnet_files\\Stock\\stockBackend\\api.csproj",
+      "projectPath": "C:\\Users\\ljdb1\\LJ_Stuff\\dotnet_files\\Stock\\api\\api.csproj",
       "packagesPath": "C:\\Users\\ljdb1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ljdb1\\LJ_Stuff\\dotnet_files\\Stock\\stockBackend\\obj\\",
+      "outputPath": "C:\\Users\\ljdb1\\LJ_Stuff\\dotnet_files\\Stock\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
