@@ -1,14 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
+#these work
 bin
 obj
 packages
+
+#---------------
 ./bin
 ./bin/Debug
 /bin
 bin/
 /main/**/bin/
-./api.csproj
 ./obj/
 
 /appsettings.json
