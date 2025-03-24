@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using api.Data;
 using api.Dtos.Stock;
+using api.Interfaces;
 using api.Mappers;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -48,7 +49,7 @@ namespace api.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] CreateStockRequestDto stockDto)
         {
-            var stockModel = stockDto.ToStockFromCreateDTO();
+            var stockModel = stockDto.ToStockFromCreateDto();
             await _stockRepo.CreateAsync(stockModel);
             return CreatedAtAction(nameof(GetById), new { id = stockModel.Id }, stockModel.ToStockDto());
         }
@@ -82,6 +83,5 @@ namespace api.Controllers
         }
 
     }
-    }
-
 }
+
