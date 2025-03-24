@@ -6,6 +6,7 @@
 bin/
 /main/**/bin/
 
+/appsettings.json
 # dependencies
 ./node_modules
 /.pnp
