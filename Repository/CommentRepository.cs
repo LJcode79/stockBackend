@@ -14,7 +14,7 @@ namespace api.Repository
         private readonly ApplicationDBContext _context;
         public CommentRepository(ApplicationDBContext context)
         {
-            context = _context;
+            _context = context;
         }
         public async Task<List<Comment>> GetAllAsync()
         {
