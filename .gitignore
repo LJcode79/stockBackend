@@ -1,5 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+<<<<<<< HEAD
 #these work
+=======
+
+./appsettings.Development.json
+>>>>>>> 85c9a60b8d71830269a52e93e86877ae537dcb64
 bin
 obj
 packages
@@ -38,3 +43,4 @@ bin/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+appsettings.Development.json
