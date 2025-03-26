@@ -10,8 +10,7 @@ namespace api.Interfaces
     {
         Task<List<Comment>> GetAllAsync();
 
-        //lj test code
-        //test2
+        Task<Comment> GetByIdAsync(int id);
 
     }
 }
