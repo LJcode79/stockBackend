@@ -44,3 +44,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 appsettings.Development.json
+Migrations/20250326063524_SkipInitMigration.cs
+Migrations/20250326063524_SkipInitMigration.Designer.cs
+Migrations/ApplicationDBContextModelSnapshot.cs
+Migrations/ApplicationDBContextModelSnapshot.cs
+Migrations/ApplicationDBContextModelSnapshot.cs
