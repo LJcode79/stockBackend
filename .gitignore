@@ -43,3 +43,7 @@ Migrations/20250326063524_SkipInitMigration.Designer.cs
 Migrations/ApplicationDBContextModelSnapshot.cs
 Migrations/ApplicationDBContextModelSnapshot.cs
 Migrations/ApplicationDBContextModelSnapshot.cs
+Migrations/20250328211257_Identity.cs
+Migrations/20250328211257_Identity.Designer.cs
+Migrations/20250328211845_Identity2.cs
+Migrations/20250328211845_Identity2.Designer.cs
