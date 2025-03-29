@@ -47,3 +47,5 @@ Migrations/20250328211257_Identity.cs
 Migrations/20250328211257_Identity.Designer.cs
 Migrations/20250328211845_Identity2.cs
 Migrations/20250328211845_Identity2.Designer.cs
+Migrations/20250329034156_SeedRole.cs
+Migrations/20250329034156_SeedRole.Designer.cs
