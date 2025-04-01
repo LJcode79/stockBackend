@@ -11,7 +11,7 @@ packages
 bin/
 /main/**/bin/
 ./obj/
-
+/Migrations
 # dependencies
 ./node_modules
 /.pnp
